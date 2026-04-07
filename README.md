@@ -27,4 +27,4 @@ To practice and demonstrate mobile development skills.
 ---
 
 ## 👤 Author  
-Babatunde Jege
+Babatunde Jegede
